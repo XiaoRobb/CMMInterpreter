@@ -1,0 +1,18 @@
+<RCC>
+    <qresource prefix="/images">
+        <file>images/copy.png</file>
+        <file>images/cut.png</file>
+        <file>images/new.png</file>
+        <file>images/open.png</file>
+        <file>images/paste.png</file>
+        <file>images/save.png</file>
+        <file>images/debug.png</file>
+        <file>images/start.png</file>
+        <file>images/point.png</file>
+        <file>images/yu.png</file>
+        <file>images/ci.png</file>
+        <file>images/next.png</file>
+        <file>images/continue.png</file>
+        <file>images/para.png</file>
+    </qresource>
+</RCC>
